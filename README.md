@@ -1,6 +1,6 @@
 # PSK
 # Aim
-Write a Python program for the modulation and demodulation of PSK.
+Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required
 # Program
 ```
